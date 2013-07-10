@@ -22,7 +22,7 @@ Remember: Just because the issue you reported was reported here does not mean th
 Reporting Issues
 ----------------
 
-If you encounter a bug while using Source 1 games, first search the [issue list](https://github.com/ValveSoftware/Dota-2/issues) to see if it has already been reported. Include closed issues in your search.
+If you encounter a bug while using Dota 2, first search the [issue list](https://github.com/ValveSoftware/Dota-2/issues) to see if it has already been reported. Include closed issues in your search.
 
 If it has not been reported, create a new issue with at least the following information:
 
