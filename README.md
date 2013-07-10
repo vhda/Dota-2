@@ -53,6 +53,9 @@ Feature Requests
 
 This repository is not meant for Dota 2 feature requests. There are forums dedicated to general Dota 2 discussion at http://dev.dota2.com.
 
+Linux Specific
+==============
+
 Driver Contact Information
 --------------------------
 
@@ -85,13 +88,3 @@ Open Source NVIDIA driver (nouveau)
 - http://nouveau.freedesktop.org/wiki/FrontPage
 
 If you know of any other places, please let us know.
-
-Known Video Driver/Card issues:
-----------------------------------
-
-### NVIDIA
-
-6xxx and 7xxx hardware have been EOL'd. The code specific to these GPUs isn't even compiled into drivers anymore.
-
-6xxx and 7xxx GPUs are incapable of performing sRGB functionality needed by Source Engine titles when being driven by OpenGL. (The sRGB behavior as specified in OpenGL is slightly different than the behavior that was actually unspecified in D3D9, which is why this works in D3D9 but not in OpenGL).
-
