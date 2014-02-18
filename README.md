@@ -1,11 +1,14 @@
 Dota-2
 ==============
 
-This is the README for the Dota 2 Linux and Mac Beta.
+This is the README for the Dota 2 Linux and Mac client.
 
 Please use this repository to report bugs for Dota 2 on Linux and Mac.
 
-**PLEASE NOTE: The game is in early Beta and there is a number of known issues; PLEASE make sure to check the issues list and do a search for your symptoms before filing a new one!**
+Matchmaking notifications on Linux
+----------------------------------
+
+On Linux, Dota 2 will use the `notify-send` and `play` commands to notify the user when a match becomes available.
 
 Conduct
 -------
