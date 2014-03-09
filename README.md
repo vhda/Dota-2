@@ -10,6 +10,11 @@ Matchmaking notifications on Linux
 
 On Linux, Dota 2 will use the `notify-send` and `play` commands to notify the user when a match becomes available.
 
+On Debian based systems the following packages must be installed to fulfill this requirement:
+
+* `libnotify-bin`
+* `sox`
+
 Conduct
 -------
 
